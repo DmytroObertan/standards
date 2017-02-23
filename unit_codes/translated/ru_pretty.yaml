@@ -1,120 +1,172 @@
+3C:
+  name_ru: ''
+  recommended: false
+  symbol_ru: ''
 4A:
   name_ru: Бабина
+  recommended: true
   symbol_ru: ''
 BX:
   name_ru: ящик
+  recommended: true
   symbol_ru: ящ.
 D44:
   name_ru: Вар
+  recommended: true
   symbol_ru: ВАр
 D64:
   name_ru: блок
+  recommended: true
   symbol_ru: блок
+E07:
+  name_ru: мегавват-час в час
+  recommended: false
+  symbol_ru: МВт-час/час
 E11:
   name_ru: Гигакалория
+  recommended: true
   symbol_ru: Гкал
 E14:
   name_ru: Килокалория
+  recommended: true
   symbol_ru: Ккал
 E48:
   name_ru: услуга
+  recommended: true
   symbol_ru: усл.
 E49:
   name_ru: Рабочие дни
+  recommended: true
   symbol_ru: Раб.дни
 E50:
   name_ru: Единица
+  recommended: true
   symbol_ru: ед.
 E51:
   name_ru: работы
+  recommended: true
   symbol_ru: раб.
 E54:
   name_ru: рейс
+  recommended: true
   symbol_ru: рейс
 GRM:
   name_ru: Грамм
+  recommended: true
   symbol_ru: г
 H87:
   name_ru: штуки
+  recommended: true
   symbol_ru: шт.
 HAR:
   name_ru: гектар
+  recommended: true
   symbol_ru: га.
 HUR:
   name_ru: Час
+  recommended: true
   symbol_ru: Ч.
 IE:
   name_ru: Людей
+  recommended: true
   symbol_ru: ''
 KGM:
   name_ru: килограммы
+  recommended: true
   symbol_ru: кг.
 KMT:
   name_ru: километры
+  recommended: true
   symbol_ru: км
 KT:
   name_ru: комплект
+  recommended: true
   symbol_ru: ''
 KVR:
   name_ru: Киловар
+  recommended: true
   symbol_ru: кВар
 KWH:
   name_ru: Киловатт-час
+  recommended: true
   symbol_ru: кВт⋅ч
 KWT:
   name_ru: Киловатт
+  recommended: true
   symbol_ru: Квт
 LM:
   name_ru: Погонный метр
+  recommended: true
   symbol_ru: пог.м.
 LO:
   name_ru: лот
+  recommended: true
   symbol_ru: лот
 LTR:
   name_ru: литр
+  recommended: true
   symbol_ru: л.
 MON:
   name_ru: месяц
+  recommended: true
   symbol_ru: месяц
 MTK:
   name_ru: метры квадратные
+  recommended: true
   symbol_ru: м.кв.
 MTQ:
   name_ru: метры кубические
+  recommended: true
   symbol_ru: м.куб.
 MTR:
   name_ru: метры
+  recommended: true
   symbol_ru: м
 NMP:
   name_ru: пачок
+  recommended: true
   symbol_ru: пач.
 PK:
   name_ru: упаковка
+  recommended: true
   symbol_ru: упак.
 PR:
   name_ru: пара
+  recommended: true
   symbol_ru: пар.
 R9:
   name_ru: тысяча кубических метров
+  recommended: true
   symbol_ru: т.м.куб
 RH:
   name_ru: Человек-час
+  recommended: true
   symbol_ru: ''
 RM:
   name_ru: пачка
+  recommended: true
   symbol_ru: пач.
 RO:
   name_ru: Рулон
+  recommended: true
   symbol_ru: ''
 SET:
   name_ru: набор
+  recommended: true
   symbol_ru: наб.
 T3:
   name_ru: Тысяч штук
+  recommended: true
   symbol_ru: Тыс. шт.
 TNE:
   name_ru: тонны
+  recommended: true
   symbol_ru: т.
 VI:
   name_ru: Флакон
+  recommended: true
   symbol_ru: флак.
+name:
+  name_ru: Наименование
+  recommended: true
+  symbol_ru: ''

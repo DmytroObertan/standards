@@ -1,120 +1,172 @@
+3C:
+  name_uk: ''
+  recommended: false
+  symbol_uk: ''
 4A:
   name_uk: Бобіна
+  recommended: true
   symbol_uk: ''
 BX:
   name_uk: ящик
+  recommended: true
   symbol_uk: ящ.
 D44:
   name_uk: Вар
+  recommended: true
   symbol_uk: ВАр
 D64:
   name_uk: блок
+  recommended: true
   symbol_uk: блок
+E07:
+  name_uk: мегават-година в годину
+  recommended: false
+  symbol_uk: МВт-год/год
 E11:
   name_uk: Гігакалорія
+  recommended: true
   symbol_uk: Гкал
 E14:
   name_uk: Кілокалорія
+  recommended: true
   symbol_uk: Ккал
 E48:
   name_uk: послуга
+  recommended: true
   symbol_uk: посл.
 E49:
   name_uk: Робочі дні
+  recommended: true
   symbol_uk: Роб.дні
 E50:
   name_uk: Одиниця
+  recommended: true
   symbol_uk: од.
 E51:
   name_uk: роботи
+  recommended: true
   symbol_uk: роб.
 E54:
   name_uk: рейс
+  recommended: true
   symbol_uk: рейс
 GRM:
   name_uk: Грам
+  recommended: true
   symbol_uk: г
 H87:
   name_uk: штуки
+  recommended: true
   symbol_uk: шт.
 HAR:
   name_uk: гектар
+  recommended: true
   symbol_uk: га.
 HUR:
   name_uk: Година
+  recommended: true
   symbol_uk: Год.
 IE:
   name_uk: Людей
+  recommended: true
   symbol_uk: ''
 KGM:
   name_uk: кілограми
+  recommended: true
   symbol_uk: кг.
 KMT:
   name_uk: кілометри
+  recommended: true
   symbol_uk: км
 KT:
   name_uk: комплект
+  recommended: true
   symbol_uk: комп.
 KVR:
   name_uk: Кіловар
+  recommended: true
   symbol_uk: кВар
 KWH:
   name_uk: Кіловат-година
+  recommended: true
   symbol_uk: кВт⋅год
 KWT:
   name_uk: Кіловат
+  recommended: true
   symbol_uk: Квт
 LM:
   name_uk: Погонний метр
+  recommended: true
   symbol_uk: пог.м.
 LO:
   name_uk: лот
+  recommended: true
   symbol_uk: лот
 LTR:
   name_uk: літр
+  recommended: true
   symbol_uk: л.
 MON:
   name_uk: місяць
+  recommended: true
   symbol_uk: місяць
 MTK:
   name_uk: метри квадратні
+  recommended: true
   symbol_uk: м.кв.
 MTQ:
   name_uk: метри кубічні
+  recommended: true
   symbol_uk: м.куб.
 MTR:
   name_uk: метри
+  recommended: true
   symbol_uk: м
 NMP:
   name_uk: пачок
+  recommended: true
   symbol_uk: пач.
 PK:
   name_uk: упаковка
+  recommended: true
   symbol_uk: упак.
 PR:
   name_uk: пара
+  recommended: true
   symbol_uk: пар.
 R9:
   name_uk: тисяча кубічних метрів
+  recommended: true
   symbol_uk: т.м.куб
 RH:
   name_uk: Людино-година
+  recommended: true
   symbol_uk: ''
 RM:
   name_uk: пачка
+  recommended: true
   symbol_uk: пач.
 RO:
   name_uk: Рулон
+  recommended: true
   symbol_uk: ''
 SET:
   name_uk: набір
+  recommended: true
   symbol_uk: наб.
 T3:
   name_uk: Тисяч штук
+  recommended: true
   symbol_uk: Тис. шт.
 TNE:
   name_uk: тони
+  recommended: true
   symbol_uk: т.
 VI:
   name_uk: Флакон
+  recommended: true
   symbol_uk: флак.
+name:
+  name_uk: Найменування
+  recommended: true
+  symbol_uk: ''
